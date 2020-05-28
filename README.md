@@ -1,8 +1,8 @@
 # OAuth2 Provider #
 
-TODO Describe the plugin shortly here.
+Thin wrapper around login/token.php to be compatible with OAuth2 Authorization Code Grant.
 
-TODO Provide more detailed description here.
+Use the CLI client.php to add, remove and manipulate client registrations.
 
 ## License ##
 
